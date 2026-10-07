@@ -8,7 +8,9 @@ While this book may be old, its influence can still be seen in today's pop cultu
 
 ## What would like you know about?
 [Its author](author.md)
+
 [Its history and the inspiration on which it is based](history.md)
+
 [Its influence on pop culture](pop_culture.md)
 
 # Keep in mind that the original book is now copyright-free in virtually every country and is available to read online for free! Click [here](https://www.gutenberg.org/files/43/43-h/43-h.htm) to read the original text.
