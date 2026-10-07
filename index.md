@@ -1,17 +1,17 @@
-#Dr Jekyll and Mr Myde
+# Dr Jekyll and Mr Myde
 
-###*Strange case of Dr Jekyll and Mr Hyde* is a horror novella written by Robert Louis Stevenson and published in 1886
+### *Strange case of Dr Jekyll and Mr Hyde* is a horror novella written by Robert Louis Stevenson and published in 1886
 
 While this book may be old, its influence can still be seen in today's pop culture. This website will explore some of its history, its author and its impact while trying to remain as spoiler-free as possible.
 
 ![image](./image/front_cover.jpg)
 
-##What would like you know about?
+## What would like you know about?
 [Its author](author.md)
 [Its history and the inspiration on which it is based](history.md)
 [Its influence on pop culture](pop_culture.md)
 
-#Keep in mind that the original book is now copyright-free in virtually every country and is available to read online for free! Click [here](https://www.gutenberg.org/files/43/43-h/43-h.htm) to read the original text.
+# Keep in mind that the original book is now copyright-free in virtually every country and is available to read online for free! Click [here](https://www.gutenberg.org/files/43/43-h/43-h.htm) to read the original text.
 
 
 [Source](https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde)
